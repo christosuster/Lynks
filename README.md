@@ -1,36 +1,29 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+![lynks-by-christos vercel app_](https://github.com/christosuster/Lynks/assets/15941653/2dbffbda-f623-4a32-b081-cc2e181d0b3c)
 
-First, run the development server:
+# Lynks
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Lynks is a platform designed to simplify and enhance your digital presence by consolidating all your social media links into a single, easy-to-share link. It provides a unified showcase of your online identity, making it effortless for others to connect with you across various platforms.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## How it Works
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+1. **Sign Up:**
+   - Start by creating your Lynks account.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+2. **Choose Username:**
+   - Choose a unique username that will be a part of your Lynks page URL.
 
-## Learn More
+3. **Add Links:**
+   - After signing in, head to your Lynks dashboard. Click on the "Add Links" button to input URLs for your various social media profiles (e.g., Twitter, LinkedIn, Instagram). You will also be able to add links to your different projects you want to showcase.
 
-To learn more about Next.js, take a look at the following resources:
+4. **Customize Page:**
+   - Make your Lynks page uniquely yours. Customize the theme and add a profile picture to enhance your digital identity.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+5. **Share Your Lynks:**
+   - Once you're satisfied with your Lynks page, share the provided URL with friends, colleagues, or anyone who wants to connect with you on social media.
+  
+![lynks-by-christos vercel app_account](https://github.com/christosuster/Lynks/assets/15941653/75ca5338-3eba-41a8-b362-a2cbd4988a4e)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+![lynks-by-christos vercel app_analytics](https://github.com/christosuster/Lynks/assets/15941653/dee3aa14-4f9e-45e1-aa1e-2fad8b8ee96f)
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![lynks-by-christos vercel app_christos](https://github.com/christosuster/Lynks/assets/15941653/889b6da1-309c-4f4a-9e4c-eb312c45345a)
